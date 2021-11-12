@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexis LEBEL</h1>
 <h3 align="center">A passionnate Technical Degree student !</h3>
 
+[![wakatime](https://wakatime.com/badge/user/9781b89a-a12a-4c30-86d9-8a6c9d6b0a92.svg)](https://wakatime.com/@9781b89a-a12a-4c30-86d9-8a6c9d6b0a92)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alestrio&label=Profile%20views&color=0e75b6&style=flat" alt="alestrio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alestrio" alt="alestrio" /></a> </p>
@@ -29,5 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestrio&show_icons=true&locale=en&layout=compact" alt="alestrio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alestrio&show_icons=true&locale=en&count_private=true" alt="alestrio" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alestrio)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alestrio&" alt="alestrio" /></p>
