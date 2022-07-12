@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis LEBEL</h1>
-<h3 align="center">A passionnate hypothetic Engineering student !</h3>
+<h3 align="center">A passionnate UTC Engineering student !</h3>
 
 [![wakatime](https://wakatime.com/badge/user/9781b89a-a12a-4c30-86d9-8a6c9d6b0a92.svg)](https://wakatime.com/@9781b89a-a12a-4c30-86d9-8a6c9d6b0a92)
 
