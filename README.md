@@ -9,12 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/alestrio0" target="blank"><img src="https://img.shields.io/twitter/follow/alestrio0?logo=twitter&style=for-the-badge" alt="alestrio0" /></a> </p>
 
-- 🔭 I’m currently working on [SDN-Cloudstack](https://github.com/Alestrio/SDN-Cloudstack)
-
-- 🌱 I’m currently learning **Terraform, Ansible**
-
-- 💬 Ask me about **Python (Flask, FastAPI, SNMP), Java, Kotlin**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alestrio0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alestrio0" height="30" width="40" /></a>
